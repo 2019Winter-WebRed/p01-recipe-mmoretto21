@@ -1,0 +1,14 @@
+/*
+*Mia Moretto
+Recipe Project
+
+*/
+
+/* the universal selector */
+*{
+} 
+/* Body attributes here */
+
+Body{ 
+    background-color: beige
+} 
